@@ -1,0 +1,28 @@
+{
+  "name": "repo_team_4",
+  "version": "1.0.0",
+  "description": "* ㅁㄴㅇㄹ\r * ㅁㄴㅇㄹ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgsw-2019-hackathon/repo_team_4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgsw-2019-hackathon/repo_team_4/issues"
+  },
+  "homepage": "https://github.com/dgsw-2019-hackathon/repo_team_4#readme",
+  "dependencies": {
+    "@types/body-parser": "^1.17.0",
+    "@types/console-stamp": "^0.2.32",
+    "@types/express": "^4.17.0",
+    "@types/node": "^12.6.3",
+    "body-parser": "^1.19.0",
+    "console-stamp": "^0.2.9",
+    "express": "^4.17.1"
+  }
+}
